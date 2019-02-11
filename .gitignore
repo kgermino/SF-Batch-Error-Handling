@@ -1,3 +1,4 @@
 #Ignore Project Files
 *.iml
 .idea/*
+IlluminatedCloud/*
