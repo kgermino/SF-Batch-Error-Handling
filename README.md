@@ -1,9 +1,9 @@
 # SF-Batch-Error-Handling
 
-###Add Demo Fields to Account
+### Add Demo Fields to Account
 Create a new field, Number_of_Contacts__c on Account.  This will be populated by the demo batch job.
 
-###Setup Initial Data
+### Setup Initial Data
 Add text(10) External_Id__c field to Account and Contact
 Add Account_External_Id__c field to Contact
 
